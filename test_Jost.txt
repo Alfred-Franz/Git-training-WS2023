@@ -1,4 +1,4 @@
 Git training WS2023
 
-creating a merge conflict
-123
+creating a merge conflict:
+	edit 1
