@@ -1,1 +1,3 @@
 Git training WS2023
+
+creating a merge conflict
